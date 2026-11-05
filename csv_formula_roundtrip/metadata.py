@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Tester un export CSV sans confondre texte et formule', 'en': 'Test CSV export without confusing text and formulas', 'es': 'Probar exportación CSV sin confundir texto y fórmulas'}
